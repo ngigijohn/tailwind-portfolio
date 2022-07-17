@@ -1,0 +1,154 @@
+{
+  "user": {
+    "name": "John Ngigi",
+    "email": "engineerjohnngigi@gmail.com",
+    "phone": "+254 710 336 880",
+    "location": "Ruiru, Kenya",
+    "social": [
+      {
+        "fontawesome_icon": "fa whatsapp",
+        "name": "whatsapp",
+        "link": "https://wa.me/+254710336880"
+      },
+      {
+        "fontawesome_icon": "fa twitter",
+        "name": "twitter",
+        "link": "https://twitter.com/_ngigijohn?s=09"
+      },
+      {
+        "fontawesome_icon": "fa github",
+        "name": "github",
+        "link": "https://github/ngigijohn"
+      },
+      {
+        "fontawesome_icon": "fa linkedin",
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/john-ngigi-8022331a5"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Slick Skills",
+      "description": "Industrial Internship sharing platforms for students to share their skills and knowledge",
+      "category": "Website",
+      "tools_languages": [
+        "HTML",
+        "CSS",
+        "javaScript",
+        "Django",
+        "Bootstrap",
+        "Postgresql",
+        "Heroku"
+      ],
+      "link": "https://www.slick-skills.herokuapp.com",
+      "thumbnail": "./thumbnails/slick-skills.png"
+    },
+    {
+      "title": "PeterKofta.tk",
+      "description": "A portfolio Website",
+      "category": "Website",
+      "tools_languages": ["HTML", "CSS", "javaScript", "React"],
+      "link": "https://www.peterkofta.tk",
+      "thumbnail": "./thumbnails/peter-kofta-thumbnail.png"
+    },
+    {
+      "title": "Alungas Family",
+      "description": "Family tree Website",
+      "category": "Website",
+      "tools_languages": ["HTML5", "CSS"],
+      "link": "https://alungasfamily.netlify.app",
+      "thumbnail": "./thumbnails/the-alungas-thumbnail.png"
+    },
+    {
+      "title": "Cash Flow",
+      "description": "A money management application that enables you to keep track of the money you spend.",
+      "category": "Progressive web application",
+      "tools_languages": ["HTML5", "CSS", "javaScript", "Vue js"],
+      "link": "https://www.cash-flow.tk",
+      "thumbnail": "./thumbnails/cash-flow-thumbnail.png"
+    },
+    {
+      "title": "Chill Beats",
+      "description": "Music player application",
+      "link-none": "",
+      "category": "Design/prototype",
+      "tools_languages": ["Adobe XD", "Gimp", "Inkscape"],
+      "thumbnail": "./thumbnails/chill-beats-thumbnail.png"
+    },
+    {
+      "title": "Weather App",
+      "description": "Daily weather checking application",
+      "link": "https://www.freeweather.tk",
+      "category": "Progressive web app /Website",
+      "tools_languages": [
+        "HTML5",
+        "CSS",
+        "javaScript",
+        "React",
+        "Open weather API"
+      ],
+      "thumbnail": "./thumbnails/weather-app-thumbnail.png"
+    },
+    {
+      "title": "Javascript Clockface",
+      "description": "A website that uses 'Date()' class to show time and API calls to display daily motivational quotes",
+      "link": "https://www.tickertimer.tk",
+      "category": "Website",
+      "tools_languages": ["HTML5", "CSS", "javaScript", "quotes API"],
+      "thumbnail": "./thumbnails/clock-face-thumbnail.png"
+    }
+  ],
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "I deliver high performance websites, Web apps to help improve your internet prescence. These range form E-Commerce/ online shops, blogs, personal/business portfolio website, social platforms and file sharing/ hosting platforms. Our websites are custom built and are tailored to meet your specific needs and requirements.",
+      "icon": "./icons/web-development-icon-circle.png"
+    },
+    {
+      "title": "Search Engine Optimisation",
+      "description": "I will improve your ranking with an aim of getting you on the first page of a google search. This will increase the amount of traffic on your website which leads to having more clients since more poeple get to know about your business.",
+      "icon": "./icons/search-engine-optimisation-icon-circle.png"
+    },
+    {
+      "title": "Graphic Design",
+      "description": "I design you brand identity by making expressive and memorable logos, illustrations and posters that your clients can identify with. ",
+      "icon": "./icons/graphic-design-icon-circle.png"
+    },
+    {
+      "title": "UX and UI design",
+      "description": "A good design translates to an even better wesbite. I engage with clients through out the design process to deliver interactive user intefaces that clients can use and critic. The design shows how the software will look like on different screen sizes, the colors, fonts and icon being used in the user interface and animations when the user iteracts with the software.",
+      "icon": "./icons/UX-UI-design-icon-circle.png"
+    },
+    {
+      "title": "Web optimisation and updates",
+      "description": "Keep your website updated by improving existing features, adding new functionality, uploading fresh content, serving optimised images and adding animations and transitions. Having a highly optimised website will reduce loading time, improve user experience, give you better content delivery and inmprove your customer base. A high quality website increases reflects your business credibility and increases the chances of clients engaging with you.",
+      "icon": "./icons/web-optimisation-icon-circle.png"
+    },
+    {
+      "title": "Progressive Web applications",
+      "description": "Progressive web applications PWAs are websites that users can install directly on their devices. Their functionality is similar to native apps installed from appstrores i.e. Apple appstore, Playstore, Microsoft store etc. Any website that is running on HTTPS protocal can be converted in to a PWA. They are cross platform and can be installed in any device running Windows, Android, IOS, Mac OS, Linux and Chrome OS e.t.c. They can work without an internet connection, this allows users to access your content offline.",
+      "icon": "./icons/pwa-icon-circle.png"
+    }
+  ],
+  "webcontent": {
+    "introtext": "Hello there I'm a Freelance Web Developer based in Nairobi, Kenya. I help companies design digital products and turn ideas to functional and delightful experiences ",
+    "slogan": "I Create Professional,  Creative and Innovative Designs",
+    "technologies": [
+      "HTML 5",
+      "CSS3",
+      "Bootstrap",
+      "javaScript",
+      "Vue",
+      "React",
+      "Python",
+      "Mongo DB",
+      "My SQL",
+      "Github",
+      "Django",
+      "Node",
+      "Express"
+    ],
+    "about": "I am a self taught web developer, software developer with a clear understanding of Internet and computer technologies.Over time i have gathered experience in the following technologies. "
+  }
+}

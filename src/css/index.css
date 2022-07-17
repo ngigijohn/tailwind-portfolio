@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: nunito;
+  src: url("../../assets/fonts/Nunito-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: nunito-black;
+  src: url("../../assets/fonts/Nunito-Black.ttf");
+}
+.font-black {
+  font-family: "nunito-black";
+}
+
+body {
+  font-family: "nunito";
+}
+/* * {
+  outline: solid pink 1px;
+} */
+.fade-in {
+  opacity: 0;
+  transform: translateY(100px);
+}
+.fade-in.appear {
+  transition: opacity 0.6s ease-in;
+  transition: transform 0.6s ease-in;
+  opacity: 1;
+  transform: translateY(0px);
+}
